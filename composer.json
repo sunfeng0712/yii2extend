@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yii2extend\\med\\": ""
+            "yii2extend\\mod\\": ""
         }
     },
     "repositories": [
