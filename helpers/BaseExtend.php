@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: sf
- * Date: 2018/3/19
- * Time: 下午5:48
- */
 namespace yii2extend\mod\helpers;
 
 use yii;
