@@ -11,21 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BaseExtend.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BaseExtend.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../yii2extend/helpers/BaseExtend.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="504">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../yii2extend/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+            <state relative-caret-position="378">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -51,8 +51,8 @@
         <option value="$PROJECT_DIR$/../yii2extend/composer.json" />
         <option value="$PROJECT_DIR$/../yii2extend/common-help/src/helpers.php" />
         <option value="$PROJECT_DIR$/../yii2extend/helpers/baseextend.php" />
-        <option value="$PROJECT_DIR$/../yii2extend/helpers/BaseExtend.php" />
         <option value="$PROJECT_DIR$/../yii2extend/.gitignore" />
+        <option value="$PROJECT_DIR$/../yii2extend/helpers/BaseExtend.php" />
       </list>
     </option>
   </component>
@@ -90,6 +90,11 @@
               <item name="sfphp" type="b2602c69:ProjectViewProjectNode" />
               <item name="yii2extend" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="sfphp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yii2extend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="helpers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -125,12 +130,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521448916350</updated>
-      <workItem from="1521448917512" duration="2280000" />
+      <workItem from="1521448917512" duration="2760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2280000" />
+    <option name="totallyTimeSpent" value="2760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="991" extended-state="6" />
@@ -182,18 +187,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../yii2extend/helpers/BaseExtend.php">
+    <entry file="file://$PROJECT_DIR$/../yii2extend/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../yii2extend/.gitignore">
+    <entry file="file://$PROJECT_DIR$/../yii2extend/helpers/BaseExtend.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        <state relative-caret-position="504">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding />
         </state>
       </provider>
