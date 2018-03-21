@@ -9,7 +9,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "sfphp",
+            "name": "sunfeng",
             "email": "sunfeng0712@163.com"
         }
     ],
@@ -25,10 +25,11 @@
             "yii2extend\\mod\\": ""
         }
     },
+    "minimum-stability": "dev",
     "repositories": [
         {
             "type": "composer",
-            "url": "https://asset-packagist.org"
+            "url": "https://packagist.org"
         }
     ]
 }

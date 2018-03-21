@@ -31,6 +31,7 @@ class ExtendTest extends TestCase
                     "李三","赵四","刘老根",
                 ],
             ];
-        BaseExtend::dd($data);
+        $baseObj = new BaseExtend();
+        $res = $baseObj->dd($data);
     }
 }

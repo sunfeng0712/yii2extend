@@ -14,7 +14,7 @@ class BaseExtend
      * @param $param
      * @return array
      */
-    public static function dd($param)
+    public  function dd($param)
     {
         foreach ($param as $p)  {
             \yii\helpers\VarDumper::dump($p, 10, true);
@@ -27,7 +27,7 @@ class BaseExtend
      * get client ip for php
      * @return array|false|string
      */
-    public static function getClientIp()
+    public  function getClientIp()
     {
         if(getenv('HTTP_CLIENT_IP')) {
             $ip = getenv('HTTP_CLIENT_IP');
